@@ -18,3 +18,5 @@ This is a WPF application for authorization and registration. It allows you to v
 ```csharp
 // Example connection string configuration
 public static string sqlstring = @"Data Source = Type your database address; Initial Catalog = db10; Integrated Security = True";
+```
+4. Compile app in Visual Studio
