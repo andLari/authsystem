@@ -1,0 +1,15 @@
+﻿<Window x:Class="variant3compservice.sureexit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:variant3compservice"
+        mc:Ignorable="d"
+        Title="Подтверждение" Height="150" Width="200" Left="700" Top="300">
+    <Grid>
+        <Button Content="Да" HorizontalAlignment="Left" Margin="21,86,0,0" VerticalAlignment="Top" Height="23" Width="49" Click="exityes"/>
+        <Button Content="Нет" HorizontalAlignment="Left" Margin="124,86,0,0" VerticalAlignment="Top" Height="23" Width="48" Click="exitno"/>
+        <Label Content="Вы действительно хотите выйти?" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
