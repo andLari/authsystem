@@ -1,6 +1,6 @@
 # Auth System WPF
 
-This is a WPF application for authorization and registration. It allows you to view data from the database and create, view, and edit requests.
+This is a WPF application for authorization and registration. It allows you to view data from the database and create, view, and edit requests. **App is only on Russian Language**
 
 ## Features
 - User Authorization
